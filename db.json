@@ -1,0 +1,50 @@
+{
+    "filmes": [
+      {
+        "id": 1,
+        "titulo": "O Corvo",
+        "ano": 1994,
+        "roteiro": "David J. Schow, John Shirley",
+        "diretor": "Alex Proyas",
+        "produção": "Edward R. Pressman, Grant Hill, Jeff Most, Caldecot Chubb",
+        "imagem": "https://cinemacomnerdice.files.wordpress.com/2020/09/o-corvo.jpg"
+      },
+      {
+        "id": 2,
+        "titulo": "O Exterminador do Futuro",
+        "ano": 1984,
+        "roteiro": "James Cameron, Gale Anne Hurd",
+        "diretor": "James Cameron",
+        "produção": "James Cameron, Gale Anne Hurd",
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/92/90/99/20224665.jpg"
+      },
+  {
+    "id": 3,
+    "titulo": "O Exterminador do Futuro 2 - O Julgamento Final",
+    "ano": 1991,
+    "roteiro": "James Cameron, William Wisher",
+    "diretor": "James Cameron",
+    "produção": "James Cameron, T2 Productions, Carolco Pictures, Lightstorm Entertainment, Canal+, Pacific Western",
+    "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/92/91/08/20224693.jpg"
+  },
+  {
+      "id": 4,
+      "titulo": "Blade - O Caçador de Vampiros",
+      "ano": 1998,
+      "roteiro": "David S., Goyer",
+      "diretor": "Stephen Norrington",
+      "produção": "Wesley Snipes, Peter Frankfurt, Robert Engelman",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/94/Blade.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Blade 2",
+      "ano": 2002,
+      "roteiro": "Guillermo del Toro, David S. Goyer",
+      "diretor": "Guillermo del Toro",
+      "produção": "Wesley Snipes, Peter Frankfurt, patrick palmer",
+      "imagem": "https://static.wikia.nocookie.net/marveldatabase/images/0/0e/Blade_II_%28film%29.jpg/revision/latest?cb=20080819200815"
+    }
+  
+    ]
+  }
