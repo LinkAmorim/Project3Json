@@ -1,5 +1,5 @@
 {
-    "filmes": [
+    "ação": [
       {
         "id": 1,
         "titulo": "O Corvo",
@@ -46,5 +46,86 @@
       "imagem": "https://static.wikia.nocookie.net/marveldatabase/images/0/0e/Blade_II_%28film%29.jpg/revision/latest?cb=20080819200815"
     }
   
+    ],
+
+    "terror": [
+      {
+        "id": 1,
+        "titulo": "O Exorcismo de Emily Rose",
+        "ano": 2005,
+        "roteiro": " Scott Derrickson, Paul Harris Boardman",
+        "diretor": "Scott Derrickson",
+        "produção": "Paul Harris Boardman, Tom Rosenberg, Gary Lucchesi, Beau Flynn, Tripp Vinson",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbvldItmR9V2syH9JK3LUR9NwbOjetpB3d5N9bd6T8i4IIx49"
+      },
+      {
+        "id": 2,
+        "titulo": "Atividade Paranormal",
+        "ano": 2007,
+        "roteiro": "Oren Peli",
+        "diretor": "Oren Peli",
+        "produção": "Oren Peli, Jason Blum",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5R2GMLy4E3h9qCLqAxxGHaEKHvbeJb08Rl6JbZWvk5a2czS9Q"
+      },
+  {
+    "id": 3,
+    "titulo": "Atividade Paranormal 2",
+    "ano": 2010,
+    "roteiro": "Christopher Landon, tom pabst, Michael R. Perry",
+    "diretor": "Tod Williams",
+    "produção": "Oren Peli, Akiva Goldsman, Jason Blum",
+    "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeRecUyYMrMCSlrlDpncxONFm0GkWruRbufIOZSbTrUMfffJzX"
+  },
+  {
+      "id": 4,
+      "titulo": "Arraste-Me para o Inferno",
+      "ano": 2009,
+      "roteiro": "Sam Raimi, Ivan Raimi",
+      "diretor": "Sam Raimi",
+      "produção": "Sam Raimi, Grant Curtis, Robert Tapert",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWcCpJa0Qc8FAwP6J6zY2SmSn4oMZ9d_AZJnRTN24WG90oeUAE"
+    }
+  
+    ],
+    
+    "suspense": [
+      {
+        "id": 1,
+        "titulo": "Coringa",
+        "ano": 2019,
+        "roteiro": "Todd Phillips, Scott Silver",
+        "diretor": "Todd Phillips",
+        "produção": "Todd Phillips, Emma Tillinger Koskoff, Bradley Cooper, Jason Cloth",
+        "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3kEFg8g-cdpamz5o28Ipv1eQ8Hez7aq4YC5cP9uCkZYAjefWR"
+      },
+      {
+        "id": 2,
+        "titulo": "1922",
+        "ano": 2017,
+        "roteiro": "Zak Hilditch",
+        "diretor": "Zak Hilditch",
+        "produção": "Ross M. Dinerstein",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b5/1922_-_Filme_de_2017.png"
+      },
+  {
+    "id": 3,
+    "titulo": "Amizade Desfeita",
+    "ano": 2014,
+    "roteiro": "Nelson Greaves",
+    "diretor": "Levan Gabriadze, Stephen Susco",
+    "produção": "Timur Bekmambetov, Nelson Greaves",
+    "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsXTzBGvxeqV8uXf0DxrLzceWMdnTujIajgLnJVPeKoDYY8j9l"
+  },
+  {
+      "id": 4,
+      "titulo": "Amizade Desfeita 2",
+      "ano": 2018,
+      "roteiro": "Stephen Susco, Nelson Greaves",
+      "diretor": "Stephen Susco",
+      "produção": "Jason Blum, Timur Bekmambetov",
+      "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzzNc5l_pxlCW9q2RQaBTxHwMKhrRTCyu83YbUd0dHmoaX5Umj"
+    }
+  
     ]
+    
   }
